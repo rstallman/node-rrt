@@ -1,0 +1,25 @@
+{
+  "name": "rrt",
+  "version": "1.0.0",
+  "description": "Rapid exploring random tree",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stierma1/node-rrt.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stierma1/node-rrt/issues"
+  },
+  "homepage": "https://github.com/stierma1/node-rrt#readme",
+  "dependencies": {
+    "graphtastic": "0.0.8"
+  },
+  "devDependencies": {
+    "bitmap-manipulation": "^2.0.0"
+  }
+}
